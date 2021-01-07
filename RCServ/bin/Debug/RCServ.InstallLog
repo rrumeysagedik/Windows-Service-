@@ -1,0 +1,576 @@
+﻿'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe derlemesinde RunInstallerAttribute.Yes özniteliğine sahip ortak yükleyiciler bulunamadı.
+Yükleyici olmadığından InstallState dosyası kaldırılmalı.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+System.ServiceProcess.ServiceProcessInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security, State.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe
+RCServ hizmeti yükleniyor...
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe
+RCServ kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security, State.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe
+RCServ hizmeti yükleniyor...
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCserv.exe
+RCServ kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security, State.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+RCServ hizmetini durdurma girişimi.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ EventLog kaynağı kaldırılıyor.
+RCServ hizmeti sistemden kaldırılıyor...
+RCServ hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+RCServ hizmeti yükleniyor...
+RCServ hizmeti başarıyla yüklendi.
+Application günlüğünde RCServ EventLog kaynağı oluşturuluyor...
+'C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.InstallLog
+   assemblypath = C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe

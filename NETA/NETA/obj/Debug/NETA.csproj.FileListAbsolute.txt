@@ -1,0 +1,30 @@
+C:\Users\Rumeysa\source\repos\NETA\NETA\bin\Debug\NETA.exe.config
+C:\Users\Rumeysa\source\repos\NETA\NETA\bin\Debug\NETA.exe
+C:\Users\Rumeysa\source\repos\NETA\NETA\bin\Debug\NETA.pdb
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.csprojAssemblyReference.cache
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.Form1.resources
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.Properties.Resources.resources
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.csproj.GenerateResource.cache
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.exe
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.pdb
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.Menüler.resources
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.SifreGüncellenecek.resources
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.Tatiltakipp.resources
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.PersonelBilgi.resources
+C:\Users\Rumeysa\source\repos\NETA\NETA\obj\Debug\NETA.Personelizin.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\bin\Debug\NETA.exe.config
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\bin\Debug\NETA.exe
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\bin\Debug\NETA.pdb
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.csprojAssemblyReference.cache
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.Form1.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.Menüler.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.PersonelBilgi.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.Personelizin.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.Properties.Resources.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.SifreGüncellenecek.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.Tatiltakipp.resources
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.csproj.GenerateResource.cache
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.csproj.CoreCompileInputs.cache
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.exe
+F:\c# .NET Remoting , C# .NET Socket RCServ\RCServ\NETA\NETA\obj\Debug\NETA.pdb

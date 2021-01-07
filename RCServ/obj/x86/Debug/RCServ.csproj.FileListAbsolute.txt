@@ -1,0 +1,17 @@
+N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.exe
+N:\PROJELER\RCServ\RCServ\bin\Debug\RCServ.pdb
+N:\PROJELER\RCServ\RCServ\obj\x86\Debug\RCServ.RCService.resources
+N:\PROJELER\RCServ\RCServ\obj\x86\Debug\RCServ.csproj.GenerateResource.Cache
+N:\PROJELER\RCServ\RCServ\obj\x86\Debug\RCServ.exe
+N:\PROJELER\RCServ\RCServ\obj\x86\Debug\RCServ.pdb
+N:\PROJELER\RCServ\RCServ\obj\x86\Debug\RCServ.ProjectInstaller.resources
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe.config
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.exe
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\bin\Debug\RCServ.pdb
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\obj\x86\Debug\RCServ.csprojAssemblyReference.cache
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\obj\x86\Debug\RCServ.ProjectInstaller.resources
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\obj\x86\Debug\RCServ.RCService.resources
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\obj\x86\Debug\RCServ.csproj.GenerateResource.cache
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\obj\x86\Debug\RCServ.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\obj\x86\Debug\RCServ.exe
+C:\Users\Rumeysa\Desktop\RCServ\RCServ\obj\x86\Debug\RCServ.pdb

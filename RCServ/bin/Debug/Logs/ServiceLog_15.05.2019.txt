@@ -1,0 +1,43 @@
+Sunucuyla bağlantı kurulurken ağ ile ilgili veya örneğe özel bir hata oluştu. Sunucu bulunamadı veya sunucuya erişilemiyor. Örnek adının doğru olduğunu ve SQL Server'ın uzak bağlantılara izin verdiğini doğrulayın. (provider: Named Pipes Provider, error: 40 - SQL Server için bağlantı açılamadı)
+Sunucuyla bağlantı kurulurken ağ ile ilgili veya örneğe özel bir hata oluştu. Sunucu bulunamadı veya sunucuya erişilemiyor. Örnek adının doğru olduğunu ve SQL Server'ın uzak bağlantılara izin verdiğini doğrulayın. (provider: Named Pipes Provider, error: 40 - SQL Server için bağlantı açılamadı)
+Sunucuyla bağlantı kurulurken ağ ile ilgili veya örneğe özel bir hata oluştu. Sunucu bulunamadı veya sunucuya erişilemiyor. Örnek adının doğru olduğunu ve SQL Server'ın uzak bağlantılara izin verdiğini doğrulayın. (provider: Named Pipes Provider, error: 40 - SQL Server için bağlantı açılamadı)
+Sunucuyla bağlantı kurulurken ağ ile ilgili veya örneğe özel bir hata oluştu. Sunucu bulunamadı veya sunucuya erişilemiyor. Örnek adının doğru olduğunu ve SQL Server'ın uzak bağlantılara izin verdiğini doğrulayın. (provider: Named Pipes Provider, error: 40 - SQL Server için bağlantı açılamadı)
+Sunucuyla bağlantı kurulurken ağ ile ilgili veya örneğe özel bir hata oluştu. Sunucu bulunamadı veya sunucuya erişilemiyor. Örnek adının doğru olduğunu ve SQL Server'ın uzak bağlantılara izin verdiğini doğrulayın. (provider: Named Pipes Provider, error: 40 - SQL Server için bağlantı açılamadı)
+Sunucuyla bağlantı kurulurken ağ ile ilgili veya örneğe özel bir hata oluştu. Sunucu bulunamadı veya sunucuya erişilemiyor. Örnek adının doğru olduğunu ve SQL Server'ın uzak bağlantılara izin verdiğini doğrulayın. (provider: Named Pipes Provider, error: 40 - SQL Server için bağlantı açılamadı)
+Sunucuyla bağlantı kurulurken ağ ile ilgili veya örneğe özel bir hata oluştu. Sunucu bulunamadı veya sunucuya erişilemiyor. Örnek adının doğru olduğunu ve SQL Server'ın uzak bağlantılara izin verdiğini doğrulayın. (provider: Named Pipes Provider, error: 40 - SQL Server için bağlantı açılamadı)
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
+Cannot open database "Personel" requested by the login. The login failed.
+Login failed for user 'WORKGROUP\DESKTOP-DLHJ0EV$'.
